@@ -1,4 +1,4 @@
-# jarvisrepo
+# jarvis
 [Structure](#structure)
 
 [Overview](#overview)
